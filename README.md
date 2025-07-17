@@ -23,6 +23,14 @@ No se incluye contenido de pago ni materiales propietarios.
 
 ---
 
+## 🛠️ Nota sobre los ejercicios
+
+Algunos ejercicios de SQLZoo incluyen código base o una consulta inicial. En estos casos, he partido de ese código y lo he ajustado, completado o corregido para resolver correctamente el enunciado propuesto.
+
+Mi objetivo es practicar y documentar mi proceso de aprendizaje en SQL, añadiendo explicaciones, estructura y mejoras a cada consulta.
+
+---
+
 ## ✅ Licencia
 
 Este proyecto está bajo la [Licencia MIT](LICENSE), lo que significa que puedes reutilizarlo libremente siempre que des crédito.
