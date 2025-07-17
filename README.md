@@ -1,7 +1,4 @@
-# sql_exercises
-Repositorio educativo con consultas SQL, basado en SQLZoo.
-
-# SQLZoo – Ejercicios de Self Join
+# SQLZoo – Ejercicios
 
 Este repositorio contiene mis soluciones personales a los ejercicios de la plataforma [SQLZoo](https://sqlzoo.net/wiki/Self_join).
 
