@@ -9,6 +9,7 @@ Este repositorio contiene mis soluciones personales a los ejercicios de la plata
 
 ## 📌 Estructura
 
+- `/join/`: Soluciones a los ejercicios de la sección JOIN y More Join.
 - `/self-join/`: Soluciones a los ejercicios de la sección Self Join.
 - `/using-null/`: Soluciones a los ejercicios de la sección Using NULL.
 - `README.md`: Información general del proyecto.
